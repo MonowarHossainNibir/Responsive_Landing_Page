@@ -7,3 +7,12 @@ footer{
     height: 30px;
     text-align: center;
 }
+.last-section{
+    height: 300px;
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+.navbar{
+    line-height: 50px;
+}
